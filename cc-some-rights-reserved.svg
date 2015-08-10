@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="90" height="30" viewBox="0 0 90 30" preserveAspectRatio="xMinYMax meet" aria-labelledby="title desc" role="img">
+<title id="title">Creative Commons Some Rights Reserved CC License Logo</title>
+<desc id="desc">Attribution: https://creativecommons.org/, Author Creator for this logo button: David Hoicka https://github.com/david-hoicka/</desc>
+<rect x="0" y="0" width="90" height="22" fill= "darkgray" stroke="black" stroke-width="1px" />
+<rect x="0" y="22" width="90" height="8" fill= "black" stroke="black" stroke-width="1px" />
+<circle cx="45" cy="11" r="8" fill="white" stroke="black" stroke-width="2"/>
+<text x="38" y="15" fill="black" font-size="12" font-family="sans-serif" font-weight="bold" >cc</text>
+<text x="1" y="28" fill="white" font-size="7" font-family="sans-serif">SOME RIGHTS RESERVED</text>
+</svg>
